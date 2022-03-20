@@ -1,0 +1,57 @@
+# ART277-assignment-
+
+1).explain in your on word the term git and GitHub
+Ans)is a local vcs software that enables developers to save snapshots
+Of their project overtime. It generally best for individuals use 
+And GitHub is a web based platform that incorporate git version controls 
+Feature so they can be used to collaborative 
+It is also included project and team management features as well as opportunities for networking Andy social coding 
+
+2).Explains the steps to down and install and configure git on your pc
+Ans)1 open the git website 
+2 clicks the download link to download git the should automatically start 
+3 once download start the installation from your browser or your downloaded folder 
+4 in the select component window leaves all the default options 
+Click and click on any other additional components you want to install 
+5 Next in choosing the default editor used by git you are familiar with 
+Or notpad
+6 in adjusting your paths environment 
+It is recommended to keep using default 
+Use Git from command lineup and also 3rd
+Party software 
+
+3) ans.In the upper-right corner of any page, use the  drop-down menu, and select New repository.
+Drop-down with option to create a new repository
+Optionally, to create a repository with the directory structure and files of an existing repository, use the Choose a template drop-down and select a template repository. You'll see template repositories that are owned by you and organizations you're a member of or that you've used before. For more information, see "Creating a repository from a template."
+Template drop-down menu
+Optionally, if you chose to use a template, to include the directory structure and files from all branches in the template, and not just the default branch, select Include all branches.
+Include all branches checkbox
+In the Owner drop-down, select the account you wish to create the repository on.
+Owner drop-down menu
+Type a name for your repository, and an optional description.
+Create repository field
+Choose a repository visibility. For more information, see "About repositories."
+Radio buttons to select repository visibility
+If you're not using a template, there are a number of optional items you can pre-populate your repository with. If you're importing an existing repository to GitHub, don't choose any of these options, as you may introduce a merge conflict. You can add or create new files using the user interface or choose to add new files using the command line later. For more information, see "Importing a Git repository using the command line," "Adding a file to a repository," and "Addressing merge conflicts."
+You can create a README, which is a document describing your project. For more information, see "About READMEs."
+You can create a .gitignore file, which is a set of ignore rules. For more information, see "Ignoring files."
+You can choose to add a software license for your project. For more information, see "Licensing a repository."
+Optionally, if the personal account or organization in which you're creating uses any GitHub Apps from GitHub Marketplace, select any apps you'd like to use in the repository.
+
+List of your account's GitHub Apps from GitHub Marketplace and option to grant access
+Click Create repository.
+Button to create repository
+At the bottom of the resulting Quick Setup page, under "Import 
+4)
+Ans)Explain the steps to pull and push from a local repository to a remote repository 
+The git push command is used to upload local repository content to a remote repository.
+ Pushing is how you transfer commits from your local repository to a remote repo. 
+It's the counterpart to git fetch , but whereas fetching imports commits to local branches,
+ pushing exports commits to remote branches.
+5) in your own word explain the term pulled and push comamit 
+Stage and breaching 
+Ans) The Git Push command is used to upload local repository content to a remote repository. 
+The git pull command is used to fetch and download content from a remote repository and immediately update the local repository to match that content.
+In Git, a commit is a snapshot of your repo at a specific point in time. 
+To stage a file is simply to prepare it finely for a commit. 
+In Git, branches are a part of your everyday development process. Git branches are effectively a pointer to a snapshot of your changes.
